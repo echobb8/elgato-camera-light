@@ -1,0 +1,13 @@
+# Compiled binary
+camera_check
+
+# Python
+__pycache__/
+*.pyc
+
+# Logs
+*.log
+*.err
+
+# macOS
+.DS_Store

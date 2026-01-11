@@ -1,0 +1,13 @@
+{
+    "light_ip": "YOUR_LIGHT_IP",
+    "light_port": 9123,
+    "poll_interval_seconds": 2,
+    "on_settings": {
+        "brightness": 40,
+        "temperature": 162
+    },
+    "off_settings": {
+        "brightness": 40,
+        "temperature": 162
+    }
+}
